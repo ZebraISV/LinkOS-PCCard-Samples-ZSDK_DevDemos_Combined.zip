@@ -1,5 +1,3 @@
-
-
 # Notes
 This version should be associated with v2.14.5097 of the PC-Card library.
 This sample has demos for graphics, magnetic encoding, multi-job printing, standard printing, checking status and settings, template printing, and SmartCard encoding.
